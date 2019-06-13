@@ -1,2 +1,2 @@
-# stamboompje
-fucking leuk stampje
+# Stamboompje
+Fucking leuk stampje.
